@@ -1,4 +1,4 @@
-## Pre-bootstrap
+# Pre-bootstrap
 
 ## Get credentials for pushing images to Quay.io
 
